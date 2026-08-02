@@ -1,4 +1,4 @@
-# 字符集合: space、letter、digit、split
+# Character classes: space, letter, digit, split
 
 states:
     - num: 0
